@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VSL→Cofidoc</string>
+    <string name="accessibility_description">
+        Remplit automatiquement Cofidoc avec les données de courses VSL-Mobile.
+        Ce service lit uniquement les champs de l\'application Cofidoc pour y saisir
+        les informations patient et kilométriques.
+    </string>
+</resources>
